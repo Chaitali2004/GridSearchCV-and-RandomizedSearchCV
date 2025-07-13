@@ -31,6 +31,8 @@ Cross-validation: 3-fold and 2-fold for efficiency
 Model Evaluation: Accuracy, Precision, Recall, F1 Score
 Output
 Final model: LogisticRegression(C=1, solver='saga')
+<img width="385" height="242" alt="image" src="https://github.com/user-attachments/assets/2b40efbd-ea35-43e1-b456-47e4f1ea316f" />
+
 
 Saved as: best_model.pkl
 link -> https://colab.research.google.com/drive/1m_gZyImLDyq-zN2g4urqtOU6IZuAPs6S?usp=sharing
